@@ -4,3 +4,6 @@
 [submodule "NNPACK"]
 	path = NNPACK
 	url = https://github.com/Maratyszcza/NNPACK.git
+[submodule "pthreadpool"]
+	path = pthreadpool
+	url = https://github.com/Maratyszcza/pthreadpool.git
