@@ -1,0 +1,6 @@
+[submodule "gemmlowp"]
+	path = gemmlowp
+	url = https://github.com/google/gemmlowp.git
+[submodule "NNPACK"]
+	path = NNPACK
+	url = https://github.com/Maratyszcza/NNPACK.git
