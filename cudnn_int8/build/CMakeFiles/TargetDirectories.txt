@@ -1,0 +1,3 @@
+/workspace/cudnn_int8/build/CMakeFiles/edit_cache.dir
+/workspace/cudnn_int8/build/CMakeFiles/rebuild_cache.dir
+/workspace/cudnn_int8/build/CMakeFiles/test.dir
